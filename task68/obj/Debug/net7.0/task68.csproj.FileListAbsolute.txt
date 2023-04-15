@@ -1,0 +1,15 @@
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\bin\Debug\net7.0\task68.exe
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\bin\Debug\net7.0\task68.deps.json
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\bin\Debug\net7.0\task68.runtimeconfig.json
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\bin\Debug\net7.0\task68.dll
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\bin\Debug\net7.0\task68.pdb
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\task68.csproj.AssemblyReference.cache
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\task68.AssemblyInfoInputs.cache
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\task68.AssemblyInfo.cs
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\task68.csproj.CoreCompileInputs.cache
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\task68.dll
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\refint\task68.dll
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\task68.pdb
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\task68.genruntimeconfig.cache
+C:\Users\annas\OneDrive\Рабочий стол\gb\c#\les9 hw\task68\obj\Debug\net7.0\ref\task68.dll
